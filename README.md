@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @holovkevych
 - 👀 I’m interested in programming, music, languages
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: t.me/holovkevych
 
